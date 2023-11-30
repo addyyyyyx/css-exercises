@@ -1,0 +1,19 @@
+.para{
+    background-color: rgb(223, 148, 148);
+    /* font-size: larger; */
+    font-family: 'Courier New', Courier, monospace,'Sans Serif';
+
+}
+
+.unique{
+   
+    font-size: 65px;
+}
+
+#even1{
+   background-color: rgb(84, 150, 150);
+}
+
+#even2{
+    background-color: rgb(211, 211, 71);
+}
