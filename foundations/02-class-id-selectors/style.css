@@ -2,12 +2,12 @@
     background-color: rgb(223, 148, 148);
     /* font-size: larger; */
     font-family: 'Courier New', Courier, monospace,'Sans Serif';
-
+    /* font-size: 50px; */
 }
 
 .unique{
-   
-    font-size: 65px;
+    border-radius: 5px;
+    font-size: 25px;
 }
 
 #even1{
